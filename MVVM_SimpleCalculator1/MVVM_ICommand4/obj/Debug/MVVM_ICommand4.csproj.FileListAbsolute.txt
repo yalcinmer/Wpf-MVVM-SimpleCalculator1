@@ -1,0 +1,17 @@
+C:\Users\Şeref\source\repos\MVVM_ICommand4\MVVM_ICommand4\obj\Debug\MVVM_ICommand4.csproj.AssemblyReference.cache
+C:\Users\Şeref\source\repos\MVVM_ICommand4\MVVM_ICommand4\obj\Debug\MVVM_ICommand4.csproj.SuggestedBindingRedirects.cache
+C:\Users\Şeref\source\repos\MVVM_ICommand4\MVVM_ICommand4\obj\Debug\Views\SimpleCalculatorView.g.cs
+C:\Users\Şeref\source\repos\MVVM_ICommand4\MVVM_ICommand4\obj\Debug\App.g.cs
+C:\Users\Şeref\source\repos\MVVM_ICommand4\MVVM_ICommand4\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Şeref\source\repos\MVVM_ICommand4\MVVM_ICommand4\obj\Debug\MVVM_ICommand4_MarkupCompile.cache
+C:\Users\Şeref\source\repos\MVVM_ICommand4\MVVM_ICommand4\obj\Debug\MVVM_ICommand4_MarkupCompile.lref
+C:\Users\Şeref\source\repos\MVVM_ICommand4\MVVM_ICommand4\bin\Debug\MVVM_ICommand4.exe.config
+C:\Users\Şeref\source\repos\MVVM_ICommand4\MVVM_ICommand4\bin\Debug\MVVM_ICommand4.exe
+C:\Users\Şeref\source\repos\MVVM_ICommand4\MVVM_ICommand4\bin\Debug\MVVM_ICommand4.pdb
+C:\Users\Şeref\source\repos\MVVM_ICommand4\MVVM_ICommand4\obj\Debug\Views\SimpleCalculatorView.baml
+C:\Users\Şeref\source\repos\MVVM_ICommand4\MVVM_ICommand4\obj\Debug\MVVM_ICommand4.g.resources
+C:\Users\Şeref\source\repos\MVVM_ICommand4\MVVM_ICommand4\obj\Debug\MVVM_ICommand4.Properties.Resources.resources
+C:\Users\Şeref\source\repos\MVVM_ICommand4\MVVM_ICommand4\obj\Debug\MVVM_ICommand4.csproj.GenerateResource.cache
+C:\Users\Şeref\source\repos\MVVM_ICommand4\MVVM_ICommand4\obj\Debug\MVVM_ICommand4.csproj.CoreCompileInputs.cache
+C:\Users\Şeref\source\repos\MVVM_ICommand4\MVVM_ICommand4\obj\Debug\MVVM_ICommand4.exe
+C:\Users\Şeref\source\repos\MVVM_ICommand4\MVVM_ICommand4\obj\Debug\MVVM_ICommand4.pdb
